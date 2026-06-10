@@ -1,0 +1,8 @@
+{
+  "name": "Royal Tech Construction",
+  "description": "Site vitrine interactif pour Royal Tech Construction a Kinshasa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
